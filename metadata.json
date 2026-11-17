@@ -1,0 +1,6 @@
+{
+  "name": "Vaquita Portal",
+  "description": "Aplikasi layanan terpadu untuk semua warga Vaquita: jadwal, absensi, progress, rapor, prestasi, reschedule, gaji, cuti, dan histori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
